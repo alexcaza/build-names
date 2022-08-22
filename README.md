@@ -13,7 +13,7 @@ $ build-names
 
 ## Back story
 
-I originally wrote a version [similar to this in Clojure](https://github.com/graingiant/build-names) and found that as a toy project, it taught me a surprising amount about the language. It touches most of the basic things you'll encounter while building a program, and gives an enjoyable output. So, I've decided this is going to become my go-to project when playing around with a new language.
+I originally wrote a version [similar to this in Clojure](https://github.com/graingiant/build-names), and found that as a toy project it taught me a surprising amount about the language. It touches most of the basic things you'll encounter while building a program, and gives an enjoyable output. So, I've decided this is going to become my go-to project to start with when playing around with a new language.
 
 ## Building
 
