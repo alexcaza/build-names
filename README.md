@@ -1,4 +1,4 @@
-# build-name
+# build-names
 
 > Heavily inspired by this repository: https://github.com/fnichol/names
 
